@@ -1,16 +1,17 @@
-### Hi there 👋
+### salve meu parceiro 🧑‍🦽
 
-<!--
-**PedrinhoDELAS/PedrinhoDELAS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+primeiramente bom dia,sou o pedro augusto mais conhecido como **PedrinhoDELAS** 😆
 
-Here are some ideas to get you started:
+- estou estudando na alura
+- estou me desenvolvendo na linguagem javaschipt
+- ultilizo esse espaco para organizaçao e compartilhamento de projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### voce pode entrar em contato comigo 📫
+ 
+- souza.pedro21@escola.pr.gov.br
+
+- @pedro_disouza
+
+![](https://tenor.com/pt-BR/view/quidi-bengala55-bengala-gif-20759168
+)
+
